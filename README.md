@@ -9,3 +9,6 @@ Truth - Fluent assertions for Java and Android - [https://truth.dev/](http://htt
 
 `testImplementation "com.google.truth:truth:1.1.3"`
 `androidTestImplementation 'com.google.truth:truth:1.1.3'`
+
+# Result test
+![Result Image|250x250,100%](https://github.com/gblnovaes/register_test_with_junit/blob/main/images/result_test.png)
